@@ -1,5 +1,6 @@
 <?php
 /**
+ * this is information i added
  * WordPress HTTP Class for managing HTTP Transports and making HTTP requests.
  *
  * This class is called for the functionality of making HTTP requests and replaces Snoopy
